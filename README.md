@@ -1,2 +1,2 @@
 # loudhailer-feed
-Manual RSS feed for The Library Loudhailer
+[Manual RSS feed for The Library Loudhailer](feed.rss)
