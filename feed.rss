@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" >
   <channel>
-    <title>The Library Loudhailer</title>
+    <title><![CDATA[The Library Loudhailer]]></title>
     <itunes:owner>
-        <itunes:email>amy.joseph@dia.govt.nz</itunes:email>
+      <itunes:email>amy.joseph@dia.govt.nz</itunes:email>
     </itunes:owner>
-    <itunes:author>Amy Joseph</itunes:author>
-    <description>A manual feed of Library Loudhailer Podcast episodes.</description>
+    <itunes:name>Amy Joseph</itunes:name>
+    <description><![CDATA[A manual feed of Library Loudhailer Podcast episodes.]]></description>
     <itunes:image href="https://images.ctfassets.net/pwv49hug9jad/7qlbAIXA0KeGbvMu6WbJFc/4b6ddcdcf8173b14b18e3c802c4bb275/library-loudhailer-thumbnail.jpg"/>
     <language>en-us</language>
     <link>https://natlib.govt.nz/blog/categories/library-loudhailer-podcast/</link>
     <item>
-      <title>Ep.1 Pūkana a curator’s tale</title>
-      <description><p>The first podcast off the rank will be a conversation with Paul Diamond, one of the curators of the Pūkana exhibition (Te Ihi, Te Wehi, Te Wana – Moments in Māori performance) currently on show at the National Library in Wellington until the 30th of July 2020. We talk about developing the exhibition, what Paul learnt about the exhibition process and the joy of working in a team.</p>
+      <title><![CDATA[Ep.1 Pūkana a curator’s tale]]></title>
+      <link>https://natlib.govt.nz/blog/posts/ep-1-pukana-a-curators-tale</link>
+      <description><![CDATA[<p>The first podcast off the rank will be a conversation with Paul Diamond, one of the curators of the Pūkana exhibition (Te Ihi, Te Wehi, Te Wana – Moments in Māori performance) currently on show at the National Library in Wellington until the 30th of July 2020. We talk about developing the exhibition, what Paul learnt about the exhibition process and the joy of working in a team.</p>
       
-      <p>Among Paul’s whirlwind description of the exhibition, he elaborates on the intricacies and purpose of the traditional Māori carved karetao (wooden puppets), delves into the power of haka, looks at the photography of Māori school pupils by Ans Westra, and grapples with the explosion that is the te reo singing heavy metal band Alien Weaponry.</p></description>
+      <p>Among Paul’s whirlwind description of the exhibition, he elaborates on the intricacies and purpose of the traditional Māori carved karetao (wooden puppets), delves into the power of haka, looks at the photography of Māori school pupils by Ans Westra, and grapples with the explosion that is the te reo singing heavy metal band Alien Weaponry.</p>]]></description>
       <pubDate>Tue, 21 July 2021 12:00:00 GMT</pubDate>
-      <enclosure url="https://natlib.govt.nz/blog/posts/ep-1-pukana-a-curators-tale"
-                 type="audio/mpeg"/>
-      <itunes:duration>35:38</itunes:duration>
+      <enclosure url="https://natlib.govt.nz/files/blog/paul-diamond-pukana-podcast.mp3"
+                  length="83572000"
+                  type="audio/mpeg"/>
+      <itunes:duration>00:35:38</itunes:duration>
     </item>
     <item>
-      <title>Ep.2 Protesting in the shower</title>
-      <description><p>Barbara Lyon, recently retired Ephemera Curator, talks to us about a couple of beautiful anti-nuclear protest posters from the 1980s.</p></description>
+      <title><![CDATA[Ep.2 Protesting in the shower]]></title>
+      <link>https://natlib.govt.nz/blog/posts/ep-2-protesting-in-the-shower</link>
+      <description><![CDATA[<p>Barbara Lyon, recently retired Ephemera Curator, talks to us about a couple of beautiful anti-nuclear protest posters from the 1980s.</p>]]></description>
       <pubDate>Fri, 02 Oct 2020 12:00:00 GMT</pubDate>
       <enclosure url="https://natlib.govt.nz/files/blog/barbara-lyon-podcast-singing-in-the-shower.mp3"
-                 type="audio/mpeg"/>
-      <itunes:duration>17:16</itunes:duration>
+                length="40513000"
+                type="audio/mpeg"/>
+      <itunes:duration>00:17:16</itunes:duration>
     </item>
   </channel>
 </rss>
